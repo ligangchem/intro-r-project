@@ -1,7 +1,7 @@
+# intro-r-project
+Base repo for SWC workshop
+Written by Gang Li
+we're using nano!
+we're saving in nana!
 
-<<<<<<< HEAD
 We're in the cloud!
-
-README's are great
-=======
->>>>>>> d545324fe04abd625a6dd394b5963d4b8d3030cd
